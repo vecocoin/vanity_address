@@ -17,9 +17,9 @@ Supports parallel processing, multiple targets, and Base58 validation.
 ---
 
 ## Screenshots
-![Screenshot1](assets/screenshot1.png)
-![Screenshot2](assets/screenshot2.png)
-![Screenshot3](assets/screenshot3.png)
+![Screenshot1](screenshot1.png)
+![Screenshot2](screenshot2.png)
+![Screenshot3](screenshot3.png)
 
 ---
 
