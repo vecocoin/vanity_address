@@ -1,7 +1,6 @@
 # Vanity Address Generator (GUI)
 
-A lightweight and user-friendly GUI tool to generate **vanity addresses** for UTXO-based cryptocurrencies (e.g. VECO, Litecoin, Dash, 2X2, Bitcoin, etc.).  
-Supports parallel processing, multiple targets, and Base58 validation.
+A lightweight and user-friendly GUI tool to generate **vanity addresses** for UTXO-based cryptocurrencies (e.g. VECO, Litecoin, Dash, 2X2, Bitcoin, etc.). Supports parallel processing, multiple targets, and Base58 validation.
 
 ---
 
@@ -19,9 +18,10 @@ Supports parallel processing, multiple targets, and Base58 validation.
 ## Screenshots
 <table>
   <tr>
+    <td><img src="screenshot4.png" width="350"/></td>
     <td><img src="screenshot1.png" width="350"/></td>
-    <td><img src="screenshot2.png" width="350"/></td>
   </tr>
+    <td><img src="screenshot2.png" width="350"/></td>
     <td><img src="screenshot3.png" width="350"/></td>
 </table>
 
