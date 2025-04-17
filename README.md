@@ -17,9 +17,13 @@ Supports parallel processing, multiple targets, and Base58 validation.
 ---
 
 ## Screenshots
-![Screenshot1](screenshot1.png)
-![Screenshot2](screenshot2.png)
-![Screenshot3](screenshot3.png)
+<table>
+  <tr>
+    <td><img src="screenshot1.png" width="350"/></td>
+    <td><img src="screenshot2.png" width="350"/></td>
+  </tr>
+    <td><img src="screenshot3.png" width="350"/></td>
+</table>
 
 ---
 
